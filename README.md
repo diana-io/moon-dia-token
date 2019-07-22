@@ -1,4 +1,5 @@
-# moon-dia-token
+# <img src="docs/diana open graph.png" alt="Diana" width="400px">
+
 DIANA, Blockchain Lunar Registry.
 
 The Diana project is birthed to decentralize ownership of the Moon through group participation of citizens and an issue of the Cosmic Crypto Currency to actualize the citizens’ revolution of the common-heritage-of-mankind.
